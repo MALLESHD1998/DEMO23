@@ -9,6 +9,8 @@ if -2>0:
     print("positive number")
     print("0 is greater")
 
-else:
+elif():
     print("neagtive number")
     print("-2 is smaller")
+
+else: print("hello World!");
