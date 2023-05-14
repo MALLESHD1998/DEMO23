@@ -1,9 +1,14 @@
-a=1123
-b = str(a)
-print(type(b))
+if 10>0:
+    print("positive number")
+    #print ("10 is greater")
 
-d=4.5
-c=str(d)
-print(type(c))
+else:
+    print("10 is smaller")
 
+if -2>0:
+    print("positive number")
+    print("0 is greater")
 
+else:
+    print("neagtive number")
+    print("-2 is smaller")
